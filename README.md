@@ -1,4 +1,5 @@
-Krishna's Recipe Book Tech stack-> Angular, Typescript, TailwindCSS
+Krishna's Recipe Book 
+Tech stack-> Angular, Typescript, TailwindCSS
 
 Commands->
 
